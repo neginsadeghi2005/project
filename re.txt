@@ -1,4 +1,4 @@
-C:\Users\hhAAM687\Documents\lr.bat0@echo off
+C:\Users\Users\Documents\lr.bat0@echo off
 for /f "tokens=2 delims=\" %%i in ('whoami') do set "user=%%i"
 
 :download
