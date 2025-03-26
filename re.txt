@@ -1,1 +1,1 @@
-$a = Read-Host 'hello';$a
+123$a = Read-Host 'hello';$a
