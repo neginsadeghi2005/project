@@ -1,0 +1,1 @@
+PowerShell -Command "$a = Read-Host 'hello'"
