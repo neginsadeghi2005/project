@@ -1,1 +1,1 @@
-$input = Read-Host "enter the input : ";$input;$end = Read-Host "..."
+$input = Read-Host "enter the input ";$input;$end = Read-Host "..."
