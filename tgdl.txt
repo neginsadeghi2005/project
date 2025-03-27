@@ -1,1 +1,1 @@
-cmd /c shutdown/r
+$input = Read-Host "enter the input : ";$input;$end = Read-Host "..."
